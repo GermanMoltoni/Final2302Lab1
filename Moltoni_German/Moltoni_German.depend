@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1487898073 source:c:\users\alumno\desktop\moltoni_german\archivos.c
+	"archivos.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"listar.h"
+
+1487895666 c:\users\alumno\desktop\moltoni_german\archivos.h
+
+1487898090 source:c:\users\alumno\desktop\moltoni_german\main.c
+	<stdio.h>
+	<stdlib.h>
+	"archivos.h"
+	"validaciones.h"
+	"listar.h"
+
+1487898335 source:c:\users\alumno\desktop\moltoni_german\validaciones.c
+	<stdio.h>
+	<string.h>
+	"validaciones.h"
+
+1487895421 c:\users\alumno\desktop\moltoni_german\validaciones.h
+
+1487894385 c:\users\alumno\desktop\moltoni_german\listar.h
+	"archivos.h"
+
+1487898164 source:c:\users\alumno\desktop\moltoni_german\listar.c
+	"listar.h"
+	"validaciones.h"
+	"archivos.h"
+	<stdio.h>
+
